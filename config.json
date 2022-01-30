@@ -1,12 +1,12 @@
 {
-    "ip": "",
-    "port": "",
-    "name": "katy",
+    "ip": "NarutoSMPP.aternos.me",
+    "port": "12571",
+    "name": "hotgirl69",
     "auto-night-skip": "false",
-    "prefix": "",
+    "prefix": "!",
     "login-enabled": "true",
-    "register-cmd": "/login kartikopp kartikopp",
-    "login-cmd": "/login kartikopp",
+    "register-cmd": "/login yojoginder yojoginder",
+    "login-cmd": "/login yojoginder",
     "loginmsg": "",
     "auto-reconnect": "true"
 }
